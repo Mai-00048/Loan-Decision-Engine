@@ -1,4 +1,4 @@
-![2](https://github.com/user-attachments/assets/aa46e630-1d3f-42e7-9758-a98077de8417)# Loan Approval System
+# Loan Approval System
 
 This project implements a **Loan Approval System** for a financial institution, where the goal is to maximize **net profit** by making intelligent loan approval decisions based on the predicted probability of default.
 
