@@ -19,11 +19,6 @@ This project implements a **Loan Approval System** for a financial institution, 
    - If the applicant defaults, the institution incurs a loss between **50 OMR and 1000 OMR**.
 4. **Optimize for Net Profit**: The threshold for loan approval is adjusted to maximize overall net profit.
 
-## Submission
-
-- The Python code for data preprocessing, model training, and evaluation is available in the repository.
-- The **final model** is selected based on its ability to maximize net profit.
-
 ## Screenshots
 
 Below are two screenshots of the system in action when predicting loan approvals and calculating the net profit.
