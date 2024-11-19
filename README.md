@@ -34,4 +34,8 @@ Below are two screenshots of the system in action when predicting loan approvals
 
 
 
-For more details and to access the code, visit the repository at: [GitHub Repository URL](#).
+## Dataset
+
+For more details and to access the dataset, visit the following link:
+
+[Loan Default Prediction Dataset](https://www.kaggle.com/datasets/nikhil1e9/loan-default)
